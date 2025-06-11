@@ -20,9 +20,7 @@ This project allows users to:
 - Apache Tomcat (9+)
 - Linux (Ubuntu-based environment)
 
-## 📂 Project Structure
 
-Web_Student_Tracker_Java/ │ ├── src/ │   └── com.gokulan.studenttracker/ │       ├── Student.java            # Model │       ├── StudentDbUtil.java      # DB utility class │       └── StudentControllerServlet.java  # Controller │ ├── WebContent/ │   ├── list-students.jsp          # View for student list │   ├── add-student-form.jsp       # View for add form │   ├── update-student-form.jsp    # View for update form │   └── index.jsp                  # Landing page │ └── META-INF/ & WEB-INF/           # Web app configs
 
 ## ⚙️ Setup Instructions
 
